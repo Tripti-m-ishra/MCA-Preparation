@@ -1,6 +1,6 @@
 # Day 4 - MCA Preparation Progress
 
-**Date:** 2026-05-29  
+**Date:** May 21, 2026 
 **Time Spent:** 7 hours  
 **Mood:** 😊  
 **Overall Progress:** 8/10
