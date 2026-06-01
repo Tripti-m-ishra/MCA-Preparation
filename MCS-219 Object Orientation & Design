@@ -1,1 +1,110 @@
+# MCS-219: Object Orientation & Design
 
+## Course Overview
+This course covers the fundamental concepts of object-oriented programming, design principles, and design patterns essential for building robust and maintainable software systems.
+
+## Key Topics
+
+### 1. Object-Oriented Programming Concepts
+- **Classes and Objects**: Blueprint and instances
+- **Encapsulation**: Data hiding and access control
+- **Inheritance**: Code reuse and hierarchy
+- **Polymorphism**: Method overriding and overloading
+- **Abstraction**: Hiding complexity
+- **Interfaces and Abstract Classes**: Contracts and implementations
+
+### 2. SOLID Principles
+- **S**ingle Responsibility Principle: One reason to change
+- **O**pen/Closed Principle: Open for extension, closed for modification
+- **L**iskov Substitution Principle: Substitutability of objects
+- **I**nterface Segregation Principle: Specific interfaces
+- **D**ependency Inversion Principle: Depend on abstractions
+
+### 3. Design Patterns
+
+#### Creational Patterns
+- Singleton: Single instance
+- Factory: Object creation abstraction
+- Builder: Complex object construction
+- Prototype: Object cloning
+- Abstract Factory: Family of related objects
+
+#### Structural Patterns
+- Adapter: Interface compatibility
+- Bridge: Abstraction from implementation
+- Composite: Tree structures
+- Decorator: Add behavior dynamically
+- Facade: Simplified interface
+- Flyweight: Share objects efficiently
+- Proxy: Surrogate for another object
+
+#### Behavioral Patterns
+- Chain of Responsibility: Pass request along chain
+- Command: Encapsulate request as object
+- Interpreter: Language interpretation
+- Iterator: Access elements sequentially
+- Mediator: Centralized communication
+- Memento: Capture and restore state
+- Observer: Notify multiple objects
+- State: Object behavior based on state
+- Strategy: Encapsulate algorithms
+- Template Method: Algorithm skeleton
+- Visitor: Operations on object structures
+
+### 4. Object-Oriented Analysis and Design (OOAD)
+- Object Modeling: Identifying objects and relationships
+- Domain Analysis: Understanding the problem space
+- Design Modeling: Translating requirements to design
+
+### 5. Unified Modeling Language (UML)
+- **Class Diagrams**: Classes, relationships, attributes, methods
+- **Sequence Diagrams**: Interaction between objects
+- **State Diagrams**: State transitions
+- **Use Case Diagrams**: Actor interactions
+- **Activity Diagrams**: Process flows
+
+### 6. Relationship Types
+- **Association**: "uses" relationship
+- **Aggregation**: "has-a" relationship (weak)
+- **Composition**: "has-a" relationship (strong)
+- **Inheritance**: "is-a" relationship
+- **Dependency**: "depends-on" relationship
+
+## Important Concepts
+- **Cohesion**: How closely related are class members
+- **Coupling**: Dependencies between classes
+- **Abstraction Levels**: High-level design to low-level details
+- **Modularity**: Breaking system into modules
+- **Reusability**: Designing for code reuse
+
+## Best Practices
+- Apply SOLID principles in design
+- Use design patterns for common problems
+- Maintain low coupling and high cohesion
+- Design for extensibility
+- Document design decisions
+- Use composition over inheritance
+- Favor interfaces over implementations
+
+## Design Process
+1. Understand Requirements
+2. Identify Objects and Classes
+3. Define Relationships
+4. Apply Design Patterns
+5. Create UML Diagrams
+6. Implement Design
+7. Review and Refactor
+
+## Common Mistakes to Avoid
+- Over-engineering with too many patterns
+- Violating SOLID principles
+- Poor naming conventions
+- Tight coupling between classes
+- Ignoring design patterns altogether
+
+## Study Tips
+- Practice drawing UML diagrams
+- Implement design patterns in code
+- Study real-world examples
+- Understand problems each pattern solves
+- Learn when NOT to use patterns
